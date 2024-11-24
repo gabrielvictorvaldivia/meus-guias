@@ -16,7 +16,7 @@ Um guia completo e prático sobre Spring Security, abordando desde conceitos bá
 - Dependências necessárias
 - Estrutura de classes principais
 
-### [Parte 2: Autenticação e Autorização](./parte2-autenticacao-autorizacao.md)
+### [Parte 2: Autenticação e Autorização](./spring-security-guide-pt1.md)
 - Modelagem de entidades (User, Role, Permission)
 - Scripts SQL e Migrations
 - Implementação do UserDetailsService
@@ -25,7 +25,7 @@ Um guia completo e prático sobre Spring Security, abordando desde conceitos bá
 - Method Security
 - Expression-based Access Control
 
-### [Parte 3: Implementações por Arquitetura](./parte3-implementacoes-arquitetura.md)
+### [Parte 3: Implementações por Arquitetura](./spring-security-guide-pt2.md)
 - Aplicações MVC
   - Form-based authentication
   - Remember-me functionality
@@ -42,7 +42,7 @@ Um guia completo e prático sobre Spring Security, abordando desde conceitos bá
   - Device authentication
   - Secure MQTT Configuration
 
-### [Parte 4: Boas Práticas e Exemplos](./parte4-boas-praticas-exemplos.md)
+### [Parte 4: Boas Práticas e Exemplos](./spring-security-guide-pt3.md)
 - Security Headers
 - Password Policies
 - Audit Logging
